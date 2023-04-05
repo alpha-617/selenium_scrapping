@@ -1,4 +1,4 @@
-# selenium_scrapping
+# selenium_scrapping-get_log
 <h2><strong>Requirement </strong></h2><br/>
 
 <code>pip3 install selenium </br>
